@@ -15,3 +15,5 @@ bool hasSum(const vector<int>& data, int sum) {
     }
     return false; //return false if no pairs add up to target sum
 }
+
+//this is linear solution O(n)
